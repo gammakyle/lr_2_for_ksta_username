@@ -11,7 +11,7 @@ int main() {
    cout << "Ряд чисел Фибоначчи до " << N << " итераций: ";
 
    for (int i = 1; i <= N; i++) {
-        if(ticker == 2)
+        if(ticker == 3)
         {
             cout << a << " ";
             ticker = 0;
